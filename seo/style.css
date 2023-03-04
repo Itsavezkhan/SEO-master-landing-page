@@ -22,6 +22,7 @@
 .list-item{
     display: inline-block;
     margin:2vw;
+    font-family: poppins;
 }
 .list-item:hover{
     font-size: 1.2vw;
@@ -47,6 +48,7 @@
     color: white;
     font-weight: bold;
     cursor: pointer;
+    font-family: poppins;
   
 }
 .description{
@@ -59,20 +61,21 @@
 .heading-text{
     
     margin-top: 100px;
-    font-size: 85px;
+    font-size: 77px;
     width: 500px;
     margin-left: 120px;
+    font-family: poppins;
 }
 .services-btn{
     margin-left: 120px;
     margin-top: 20px;
-    width: 120px;
-    height: 30px;
+    width: 125px;
+    height: 35px;
     border-radius: 5px;
     background-color: #696da9;
     color: white;
-    font-weight: bold;
     cursor: pointer;
+    font-family: poppins;
 }
 span{
     color:darkorchid;
@@ -83,4 +86,5 @@ span{
 .description{
     font-weight: bold;
     color: #10176e;
+    font-family: poppins;
 }
